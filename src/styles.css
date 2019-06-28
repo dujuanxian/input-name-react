@@ -1,0 +1,14 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.name-block,
+label {
+  width: 340px;
+  height: 120px;
+  display: block;
+  border: 1px solid black;
+  padding: 20px;
+  margin-bottom: 20px;
+}
